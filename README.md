@@ -7,7 +7,8 @@ follows and according to the below problem statement I tried to implement the fi
 2. After that add 2 in every even number
 3. After that perform summation of that modified number
 
-1. Input[1,3,2,4,6,5,4]
-2. After filter[2,4,6,4]
-3. After map[4,6,8,6]
-4. After reduce 24
+Example :
+1. Input       : [1,3,2,4,6,5,4]
+2. Filter Data : [2,4,6,4]
+3. Map Data    : [4,6,8,6]
+4. Reduce Data : 24
